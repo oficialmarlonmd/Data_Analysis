@@ -6,5 +6,5 @@ Principais funcionalidades:
 
 Análise exploratória para entender as características dos passageiros.
 Tratamento de dados ausentes e categóricos.
-Criação de visualizações como gráficos de barras e histogramas para demonstrar insights.
-Análise preditiva dos sobreviventes.
+Criação de visualizações, como gráficos de barras e histogramas, para demonstrar insights.
+Desenvolvimento de uma análise preditiva sobre os sobreviventes usando técnicas de pré-processamento de dados.
